@@ -17,3 +17,6 @@ https://sourceforge.net/projects/nflib/
 1. Installer la dernière version de DevkitARM/DevkitPRO https://devkitpro.org/wiki/Getting_Started
 2. Télécharger les fichiers du jeu
 3. Sur Windows lancez le fichier "Compile.bat". Sur Mac et Linux, ouvrez le terminal dans le dossier et tapez la commande "make"
+
+## Crédits 
+[rayasticot](https://github.com/rayasticot) : développement principal du projet
